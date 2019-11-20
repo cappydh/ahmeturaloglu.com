@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "f6c2e8a2afba71029fc9dea10c2e781d",
+    "revision": "896ea7eb404d9189ad2fdd014079933e",
     "url": "/ahmeturaloglu.com/index.html"
   },
   {
-    "revision": "7398afcec1ce7a9fd24e",
+    "revision": "8858906ba4977cb58e0e",
     "url": "/ahmeturaloglu.com/static/css/main.19cceb2a.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ahmeturaloglu.com/static/js/2.bd02a25f.chunk.js"
   },
   {
-    "revision": "7398afcec1ce7a9fd24e",
-    "url": "/ahmeturaloglu.com/static/js/main.87c05d63.chunk.js"
+    "revision": "8858906ba4977cb58e0e",
+    "url": "/ahmeturaloglu.com/static/js/main.0c3790cf.chunk.js"
   },
   {
     "revision": "fce49372a3eb10929fae",
