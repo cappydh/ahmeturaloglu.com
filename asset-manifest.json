@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/ahmeturaloglu.com/static/css/main.fed451ce.chunk.css",
+    "main.css": "/ahmeturaloglu.com/static/css/main.814b217c.chunk.css",
     "main.js": "/ahmeturaloglu.com/static/js/main.0c3790cf.chunk.js",
     "main.js.map": "/ahmeturaloglu.com/static/js/main.0c3790cf.chunk.js.map",
     "runtime-main.js": "/ahmeturaloglu.com/static/js/runtime-main.fc362b66.js",
@@ -8,9 +8,9 @@
     "static/js/2.bd02a25f.chunk.js": "/ahmeturaloglu.com/static/js/2.bd02a25f.chunk.js",
     "static/js/2.bd02a25f.chunk.js.map": "/ahmeturaloglu.com/static/js/2.bd02a25f.chunk.js.map",
     "index.html": "/ahmeturaloglu.com/index.html",
-    "precache-manifest.3274017e3a6aef46509c9e8d1a771217.js": "/ahmeturaloglu.com/precache-manifest.3274017e3a6aef46509c9e8d1a771217.js",
+    "precache-manifest.7c2e854430990fef5b8bfe108fa6fe96.js": "/ahmeturaloglu.com/precache-manifest.7c2e854430990fef5b8bfe108fa6fe96.js",
     "service-worker.js": "/ahmeturaloglu.com/service-worker.js",
-    "static/css/main.fed451ce.chunk.css.map": "/ahmeturaloglu.com/static/css/main.fed451ce.chunk.css.map",
+    "static/css/main.814b217c.chunk.css.map": "/ahmeturaloglu.com/static/css/main.814b217c.chunk.css.map",
     "static/media/20833464.png": "/ahmeturaloglu.com/static/media/20833464.415a26d3.png",
     "static/media/About.css": "/ahmeturaloglu.com/static/media/Raleway-Bold.575e4317.ttf",
     "static/media/index.css": "/ahmeturaloglu.com/static/media/Raleway-Regular.580d0778.ttf",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.fc362b66.js",
     "static/js/2.bd02a25f.chunk.js",
-    "static/css/main.fed451ce.chunk.css",
+    "static/css/main.814b217c.chunk.css",
     "static/js/main.0c3790cf.chunk.js"
   ]
 }
