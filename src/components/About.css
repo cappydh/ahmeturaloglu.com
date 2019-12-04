@@ -8,9 +8,13 @@
 }
 
 @media only screen and (max-width: 768px) {
+  .container {
+    padding: 0 !important;
+  }
   .qualities {
     flex-direction: column !important;
     font-size: 18pt !important;
+    padding: 90px 0 0 0 !important;
   }
   .qualities-row {
     padding-bottom: 15px !important;
@@ -53,7 +57,7 @@
     font-size: 10pt !important;
   }
   .skills {
-    padding-top: 150px !important;
+    margin-top: 150px !important;
     width: calc(100% - 15px) !important;
     max-width: 90% !important;
   }
