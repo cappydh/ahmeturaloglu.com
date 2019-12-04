@@ -204,7 +204,7 @@ const About = () => {
             >
               <div className="tag">jQuery</div>
             </div>
-            <span className="percentage">60%</span>
+            <span className="percentage">70%</span>
           </div>
           <div className="skill">
             <div
@@ -213,7 +213,7 @@ const About = () => {
             >
               <div className="tag">TypeScript</div>
             </div>
-            <span className="percentage">30%</span>
+            <span className="percentage">60%</span>
           </div>
           <div className="skill">
             <div

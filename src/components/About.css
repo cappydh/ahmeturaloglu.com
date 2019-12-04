@@ -336,25 +336,33 @@
 
 .skills .skill:nth-child(1) .skill-bar.animated.bar {
   width: 70% !important;
+  transition-delay: 0s;
 }
 .skills .skill:nth-child(2) .skill-bar.animated.bar {
   width: 80% !important;
+  transition-delay: 0.1s;
 }
 .skills .skill:nth-child(3) .skill-bar.animated.bar {
   width: 55% !important;
+  transition-delay: 0.1s;
 }
 .skills .skill:nth-child(4) .skill-bar.animated.bar {
   width: 75% !important;
+  transition-delay: 0.2s;
 }
 .skills .skill:nth-child(5) .skill-bar.animated.bar {
-  width: 60% !important;
+  width: 70% !important;
+  transition-delay: 0.2s;
 }
 .skills .skill:nth-child(6) .skill-bar.animated.bar {
-  width: 30% !important;
+  width: 60% !important;
+  transition-delay: 0.3s;
 }
 .skills .skill:nth-child(7) .skill-bar.animated.bar {
   width: 40% !important;
+  transition-delay: 0.3s;
 }
 .skills .skill:nth-child(8) .skill-bar.animated.bar {
   width: 50% !important;
+  transition-delay: 0.4s;
 }
